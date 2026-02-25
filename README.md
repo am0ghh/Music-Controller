@@ -20,7 +20,7 @@ This project emulates a native Bluetooth keyboard to provide tactile, wireless c
 * Jumper Wires
 
 ## Wiring Schematic
-
+[View Schematic (PDF)](./music_controller.pdf)
 
 ## Pin Connections
 Buttons (Active-Low):
