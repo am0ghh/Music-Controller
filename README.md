@@ -40,6 +40,9 @@ Buttons (Active-Low):
 4. Pair the device via Bluetooth settings on your phone or PC
 5. Test playback on any media application (Spotify, YouTube, etc.)
 
+## Video Demonstration
+https://www.youtube.com/watch?v=QvqF_MR-02k
+
 ## Usage
 * Press D13 to Toggle Play/Pause
 * Press D12 to Skip to the next track
